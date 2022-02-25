@@ -1,4 +1,4 @@
-module IPRateLimiter
+module github.com/zhongsongzhi/IPRateLimiter
 
 go 1.15
 
